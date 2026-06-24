@@ -15,3 +15,10 @@ Welcome to my GitHub profile!
 
 - [ ] 🔴 Critical bug fix
 - [x] ✅ Feature implemented
+
+Create bold text by using two asterisks (**) or two underscores (__). For example: ****test**** and __test_hypen__
+
+_test_italic_
+
+This is *italic* text.
+This is also __italic__ text.
